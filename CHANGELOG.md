@@ -32,3 +32,8 @@ Increment the third number (PATCH) for bug fixes
 - Basic authentication flow
 - Responsive layout components
 - Documentation and README
+
+## [1.0.1] - 2025-04-11
+
+### Modified
+- Codebase Check

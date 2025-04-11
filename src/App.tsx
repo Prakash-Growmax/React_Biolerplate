@@ -36,7 +36,7 @@ function App() {
             <h2 className="text-2xl font-semibold mb-4">Welcome to your React Boilerplate</h2>
             <p className="text-muted-foreground mb-4">
               This boilerplate includes React, TypeScript, Vite, ESLint, Prettier, TanStack Query,
-              Zustand, and shadcn/ui.
+              Zustand, and shadcn/ui. Version 2.
             </p>
           </div>
         </main>
