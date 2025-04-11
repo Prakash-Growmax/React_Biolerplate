@@ -37,3 +37,8 @@ Increment the third number (PATCH) for bug fixes
 
 ### Modified
 - Codebase Check
+
+## [1.0.2] - 2025-04-11
+
+### Modified
+- verify Check
